@@ -1,0 +1,6 @@
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.sqlproj.AssemblyReference.cache
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb

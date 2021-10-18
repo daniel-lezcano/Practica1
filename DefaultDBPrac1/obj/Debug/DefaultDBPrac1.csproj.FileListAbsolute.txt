@@ -1,0 +1,7 @@
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe.config
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.pdb
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.AssemblyReference.cache
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.CoreCompileInputs.cache
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.exe
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.pdb
